@@ -1,4 +1,4 @@
-# Automated Graphic Plotter Using Python and Matplot
+# Automated Graphic Plotter of Sales Data Using Python and Matplot
 ![Donut Chart](https://github.com/sl-pulse/matplot-qin/blob/main/img/donut.png?raw=true)
 ![Pie Chart](https://github.com/sl-pulse/matplot-qin/blob/main/img/stage_n_region.png?raw=true)
 ![Revenue Vs Budget - Plot and Bar](https://github.com/sl-pulse/matplot-qin/blob/main/img/revenue_view.png?raw=true)
